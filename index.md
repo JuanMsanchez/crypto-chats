@@ -47,21 +47,21 @@ EJEMPLO EN VIVO
 Creamos una billetera y realizamos una transacción básica durante la charla.
 ```
 
-#### Fundamentos de privacidad y seguridad en la web :construction_worker:
+#### Fundamentos de privacidad y seguridad en la web
 ```
 Trabajo en progreso
 ```
 
-#### Tor Network :construction_worker:
+#### Tor Network
 ```
 Trabajo en progreso
 ```
 
-#### Introduccion a PGP :construction_worker:
+#### Introduccion a PGP (pretty good privacy)
 ```
 Trabajo en progreso
 ```
 
 
 ### Contacto
-Escribime a usuario.jm@gmail.com
+Escribime a <a href="mailto:usuario.jm@gmail.com">usuario.jm@gmail.com<a/>
