@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+## Bienvenido a Crypto Chats
+La porcion de nuestras vidas que ocurre en el terreno de lo digital crece dia a dia. El objetivo de este proyecto es proporcionar el conocimiento basico y necesario para mantener nuestra seguridad y privacidad dentro de este ambito. Por el momento el taller esta divido en las 5 charlas descriptas a continuacion.
 
-You can use the [editor on GitHub](https://github.com/JuanMsanchez/crypto-chats/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Programa
+#### Crypto Monedas I
+```
+FIAT Vs CRYPTO
+Diferencias y similitudes entre diferentes tipos de monedas
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ALGO DE HISTORIA
+Un poco de la historia de bitcoin.
 
-### Markdown
+COMO FUNCIONA?**
+Breve introducción a la teoría de las cryptomonedas. 
+Definiciones de ciertos conceptos basicos, como blockchain, transacciones y mineria.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+DONDE ESTAN MIS MOENDAS?
+Como las cryptomonedas aseguran la posesion de las mismas por sus usuarios? 
+Por que este bitcoin es mío y de nadie mas?
 
-```markdown
-Syntax highlighted code block
+DESAFIOS Y PROBLEMAS
+Repasamos los problemas que enfrentan las cryptomonedas en la actualidad.
+Coste energético, velocidad de las transacciones, curva de aprendizaje.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+POR QUE CRYPTO?
+Algunos de los motivos por los que considerar las cryptomonedas. 
+Forma de inversion o ahorro. Privacidad y movilidad.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Crypto Monedas II
+```
+BTC, ETH, XMR, WTF!?
+Repaso de algunas de las cryptomonedas mas conocidas y sus diferencias.
 
-### Jekyll Themes
+DONDE COMPRAR?
+Repaso de algunas de las alternativas locales e internacionales.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JuanMsanchez/crypto-chats/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+TRANSACCIONES Y BILLTERAS
+Como tener mi propia billetera de bitcoins y realizar transacciones simples.
 
-### Support or Contact
+SEGURIDAD
+Como asegurar nuestras cryptomonedas.
+Hardware wallets. Cold wallets. Evitar estafas.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+EJEMPLO EN VIVO
+Creamos una billetera y realizamos una transacción básica durante la charla.
+```
+
+### Fundamentos de privacidad y seguridad en la web
+```
+Trabajo en progreso
+```
+
+### Tor Network
+```
+Trabajo en progreso
+```
+
+### Introduccion a PGP
+```
+Trabajo en progreso
+```
+
+
+## Contacto
+escribime a usuario.jm@gmail.com
