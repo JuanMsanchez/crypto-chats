@@ -1,6 +1,6 @@
 
 ## Bienvenido a Crypto Chats 
-La porcion de nuestras vidas que ocurre en el terreno de lo digital crece dia a dia. El objetivo de este proyecto es proporcionar el conocimiento basico y necesario para mantener nuestra seguridad y privacidad dentro de este ambito. Por el momento el taller esta divido en las 5 charlas descriptas a continuacion.
+La porcion de nuestras vidas que ocurre en el terreno de lo digital crece dia a dia. El objetivo de este proyecto es proporcionar el conocimiento basico y necesario para mantener nuestra seguridad y privacidad dentro de este ambito. El taller esta divido en las 5 charlas descriptas a continuacion.
 
 ### Programa
 #### Crypto Monedas I
