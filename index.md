@@ -1,4 +1,5 @@
-## Bienvenido a Crypto Chats
+
+## Bienvenido a Crypto Chats 
 La porcion de nuestras vidas que ocurre en el terreno de lo digital crece dia a dia. El objetivo de este proyecto es proporcionar el conocimiento basico y necesario para mantener nuestra seguridad y privacidad dentro de este ambito. Por el momento el taller esta divido en las 5 charlas descriptas a continuacion.
 
 ### Programa
@@ -27,7 +28,7 @@ Algunos de los motivos por los que considerar las cryptomonedas.
 Forma de inversion o ahorro. Privacidad y movilidad.
 ```
 
-### Crypto Monedas II
+#### Crypto Monedas II
 ```
 BTC, ETH, XMR, WTF!?
 Repaso de algunas de las cryptomonedas mas conocidas y sus diferencias.
@@ -46,21 +47,21 @@ EJEMPLO EN VIVO
 Creamos una billetera y realizamos una transacción básica durante la charla.
 ```
 
-### Fundamentos de privacidad y seguridad en la web
+#### Fundamentos de privacidad y seguridad en la web :construction_worker:
 ```
 Trabajo en progreso
 ```
 
-### Tor Network
+#### Tor Network :construction_worker:
 ```
 Trabajo en progreso
 ```
 
-### Introduccion a PGP
+#### Introduccion a PGP :construction_worker:
 ```
 Trabajo en progreso
 ```
 
 
-## Contacto
-escribime a usuario.jm@gmail.com
+### Contacto
+Escribime a usuario.jm@gmail.com
