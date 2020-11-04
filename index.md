@@ -11,7 +11,7 @@ Diferencias y similitudes entre diferentes tipos de monedas
 ALGO DE HISTORIA
 Un poco de la historia de bitcoin.
 
-COMO FUNCIONA?**
+COMO FUNCIONA?
 Breve introducción a la teoría de las cryptomonedas. 
 Definiciones de ciertos conceptos basicos, como blockchain, transacciones y mineria.
 
