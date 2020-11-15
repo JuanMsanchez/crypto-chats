@@ -28,6 +28,14 @@ Algunos de los motivos por los que considerar las criptomonedas.
 Forma de inversión o ahorro. Privacidad y movilidad.
 ```
 
+Referencias: 
+- [How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0) (YouTube)
+- [¿Alguna vez te has preguntado cómo Bitcoin funcionan?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) (YouTube)
+- [Finance: The History of Money (combined)](https://www.youtube.com/watch?v=YCN2aTlocOw&t=507s) (YouTube)
+- [How does Bitcoin work?](https://bitcoin.org/en/how-it-works) (FAQ y White Paper)
+- [Andreas Antonopoulos](https://www.youtube.com/c/aantonop) (YouTube)
+- [Cryptopia Documental](https://www.youtube.com/watch?v=dgjwepAeRu4) (Prime Video)
+
 #### Criptomonedas II
 ```
 BTC, ETH, XMR, WTF!?
