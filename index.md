@@ -56,6 +56,7 @@ EJEMPLO EN VIVO
 Creamos una billetera y realizamos una transacción básica durante la charla.
 ```
 Referencias:
+
 *Lista de exchanges:*
 - [Satoshi Tango](https://www.satoshitango.com)
 - [Binance](https://www.binance.com/)
@@ -63,6 +64,7 @@ Referencias:
 - [Coinbase](https://www.coinbase.com)
 - [Kraken](https://www.kraken.com)
 - [Paypal](https://www.paypal.com)
+
 *Wallets:*
 - [Guia de Walletes - Bitcoin.org](https://bitcoin.org/en/choose-your-wallet?step=1)
 - [Exodus](https://www.exodus.io)
