@@ -35,6 +35,7 @@ Referencias:
 - [How does Bitcoin work?](https://bitcoin.org/en/how-it-works) (FAQ y White Paper)
 - [Andreas Antonopoulos](https://www.youtube.com/c/aantonop) (YouTube)
 - [Cryptopia Documental](https://www.youtube.com/watch?v=dgjwepAeRu4) (Prime Video)
+- [Why Bitcoin Matters & Why You Should Care | Economical, Ethical And Technological Perspective](https://www.youtube.com/watch?v=Ai5z2T4WhWg)
 
 #### Criptomonedas II
 ```
@@ -54,9 +55,7 @@ Hardware wallets. Cold wallets. Evitar estafas.
 EJEMPLO EN VIVO
 Creamos una billetera y realizamos una transacción básica durante la charla.
 ```
-##### Referencias:
-- [Why Bitcoin Matters & Why You Should Care | Economical, Ethical And Technological Perspective](https://www.youtube.com/watch?v=Ai5z2T4WhWg)
-
+Referencias:
 *Lista de exchanges:*
 - [Satoshi Tango](https://www.satoshitango.com)
 - [Binance](https://www.binance.com/)
@@ -64,7 +63,6 @@ Creamos una billetera y realizamos una transacción básica durante la charla.
 - [Coinbase](https://www.coinbase.com)
 - [Kraken](https://www.kraken.com)
 - [Paypal](https://www.paypal.com)
-
 *Wallets:*
 - [Guia de Walletes - Bitcoin.org](https://bitcoin.org/en/choose-your-wallet?step=1)
 - [Exodus](https://www.exodus.io)
