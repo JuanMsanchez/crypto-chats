@@ -54,6 +54,24 @@ Hardware wallets. Cold wallets. Evitar estafas.
 EJEMPLO EN VIVO
 Creamos una billetera y realizamos una transacción básica durante la charla.
 ```
+##### Referencias:
+- [Why Bitcoin Matters & Why You Should Care | Economical, Ethical And Technological Perspective](https://www.youtube.com/watch?v=Ai5z2T4WhWg)
+
+*Lista de exchanges:*
+- [Satoshi Tango](https://www.satoshitango.com)
+- [Binance](https://www.binance.com/)
+- [Crypto market](https://www.cryptomkt.com)
+- [Coinbase](https://www.coinbase.com)
+- [Kraken](https://www.kraken.com)
+- [Paypal](https://www.paypal.com)
+
+*Wallets:*
+- [Guia de Walletes - Bitcoin.org](https://bitcoin.org/en/choose-your-wallet?step=1)
+- [Exodus](https://www.exodus.io)
+- [Atomic](https://atomicwallet.io)
+- [BRD](https://brd.com)
+- [Mycelium](https://wallet.mycelium.com)
+
 
 #### Fundamentos de privacidad y seguridad en la web
 ```
