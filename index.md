@@ -36,6 +36,7 @@ Referencias:
 - [Andreas Antonopoulos](https://www.youtube.com/c/aantonop) (YouTube)
 - [Cryptopia Documental](https://www.youtube.com/watch?v=dgjwepAeRu4) (Prime Video)
 - [Why Bitcoin Matters & Why You Should Care - Economical, Ethical And Technological Perspective](https://www.youtube.com/watch?v=Ai5z2T4WhWg) (YouTube)
+- [Central Bank Digital Currency - CBDC](https://blockgeeks.com/guides/cbdc) (Docs)
 
 #### Criptomonedas II
 ```
